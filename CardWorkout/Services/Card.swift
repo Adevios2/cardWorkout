@@ -9,7 +9,7 @@ import UIKit
 
 struct Card {
     
-    static var allvalues =[
+    static var allvalues = [
         
     UIImage(named: "2H")!,
     UIImage(named: "3H")!,
